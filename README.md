@@ -14,6 +14,8 @@ Each folder contains 3 sentence aligned files with '*' replaced with either 'Sta
   * O:- Non-Idiom token  
   
 ## Citation
+
+We have a [paper](https://arxiv.org/abs/2006.09479) published in the 23rd International Conference on Text, Speech and Dialogue, 2020.
 ```bibtex
 @misc{saxena2020epie,
       title={EPIE Dataset: A Corpus For Possible Idiomatic Expressions}, 
