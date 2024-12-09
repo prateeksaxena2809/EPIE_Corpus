@@ -15,7 +15,8 @@ Each folder contains 3 sentence aligned files with '*' replaced with either 'Sta
   
 ## Citation
 
-We have a [paper](https://arxiv.org/abs/2006.09479) published in the 23rd International Conference on Text, Speech and Dialogue, 2020.
+We have two papers published in 23rd International Conference on Text, Speech and Dialogue, 2020, and 24rd International Conference on Text, Speech and Dialogue, 2021 respectively:-
+1. [EPIE Dataset](https://arxiv.org/abs/2006.09479) published in the 23rd International Conference on Text, Speech and Dialogue, 2020.
 ```bibtex
 @misc{saxena2020epie,
       title={EPIE Dataset: A Corpus For Possible Idiomatic Expressions}, 
@@ -24,5 +25,16 @@ We have a [paper](https://arxiv.org/abs/2006.09479) published in the 23rd Intern
       eprint={2006.09479},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
+```
+2. [Labelled EPIE](https://arxiv.org/abs/2006.09479) published in the 24rd International Conference on Text, Speech and Dialogue, 2021.
+```bibtex
+@inproceedings{saxena2021labelled,
+  title={Labelled EPIE: A Dataset for Idiom Sense Disambiguation},
+  author={Saxena, Prateek and Paul, Soma},
+  booktitle={International Conference on Text, Speech, and Dialogue},
+  pages={210--221},
+  year={2021},
+  organization={Springer}
 }
 ```
